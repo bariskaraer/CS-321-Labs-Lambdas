@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CS321_LabHigher.dir/main.cpp.o  -o CS321_LabHigher 

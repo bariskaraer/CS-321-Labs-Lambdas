@@ -1,0 +1,3 @@
+/home/cenkerkaraors/CLionProjects/CS321_LabAllof/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cenkerkaraors/CLionProjects/CS321_LabAllof/cmake-build-debug/CMakeFiles/CS321_LabAllof.dir
+/home/cenkerkaraors/CLionProjects/CS321_LabAllof/cmake-build-debug/CMakeFiles/edit_cache.dir
